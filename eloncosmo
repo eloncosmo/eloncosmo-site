@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ElonCosmo - O Token do Futuro!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        .logo {
+            width: 200px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #ffcc00;
+            color: #000;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img class="logo" src="image.png" alt="ElonCosmo Logo">
+        <h1>Bem-vindo ao ElonCosmo 🚀</h1>
+        <p>O token que levará você até as estrelas! Junte-se à revolução intergaláctica das criptomoedas.</p>
+        <a class="btn" href="#">Compre Agora</a>
+    </div>
+</body>
+</html>
